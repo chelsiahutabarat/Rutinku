@@ -9,7 +9,7 @@ Aplikasi habit tracker sederhana untuk membantu pengguna membangun rutinitas har
 - 💾 Data tersimpan otomatis di perangkat (AsyncStorage)
 - 🎨 Tampilan bersih dan responsif di Android
 
-### Screenshot ###
+## Screenshot 
 
 **Home**
 
