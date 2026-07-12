@@ -4,10 +4,10 @@ Aplikasi habit tracker sederhana untuk membantu pengguna membangun rutinitas har
 
 ## Fitur Utama
 
-✅ Tambah & kelola rutinitas harian dengan ikon pilihan
-🔥 Tracking progress harian dengan penghitung streak (hari beruntun)
-💾 Data tersimpan otomatis di perangkat (AsyncStorage)
-🎨 Tampilan bersih dan responsif di Android
+- ✅ Tambah & kelola rutinitas harian dengan ikon pilihan
+- 🔥 Tracking progress harian dengan penghitung streak (hari beruntun)
+- 💾 Data tersimpan otomatis di perangkat (AsyncStorage)
+- 🎨 Tampilan bersih dan responsif di Android
 
 ### Screenshot ###
 
