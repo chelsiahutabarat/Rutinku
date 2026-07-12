@@ -16,7 +16,7 @@ Aplikasi habit tracker sederhana untuk membantu pengguna membangun rutinitas har
 
 ## Download APK
 
-[Download RutinKu APK](https://expo.dev/artifacts/eas/xxxxx.apk)
+[Download RutinKu APK](https://expo.dev/accounts/niell77/projects/rutinku/builds/93df5a29-301b-437a-a31e-63a170fa5291)
 
 ## Cara Install
 
