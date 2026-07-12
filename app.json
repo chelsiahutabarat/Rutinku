@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "RutinKu",
+    "slug": "rutinku",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "backgroundColor": "#FFFFFF"
+    },
+    "android": {
+      "package": "com.reveldaniel.rutinku",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "permissions": []
+    },
+    "extra": {
+      "eas": {
+        "projectId": "adddbf3f-573c-4c63-836a-fe17ee741cf9"
+      }
+    },
+    "owner": "niell77"
+  }
+}
