@@ -35,7 +35,7 @@ Aplikasi habit tracker sederhana untuk membantu pengguna membangun rutinitas har
 
 ## Download APK
 
-[Download RutinKu APK](https://expo.dev/accounts/niell77/projects/rutinku/builds/93df5a29-301b-437a-a31e-63a170fa5291)
+[Download RutinKu APK](https://expo.dev/artifacts/eas/Zjvx-pT8-qzFwTIgfWtgzVho-0dTioddP8vjUnKt7lM.apk)
 
 ## Cara Install
 
@@ -43,3 +43,6 @@ Aplikasi habit tracker sederhana untuk membantu pengguna membangun rutinitas har
 2. Buka file APK di HP Android
 3. Izinkan instalasi dari sumber tidak dikenal jika diminta
 4. Buka aplikasi RutinKu
+
+## Authors
+Chelsia Elisa Magdalena Br.Hutabarat
